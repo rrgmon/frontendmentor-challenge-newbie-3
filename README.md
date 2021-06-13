@@ -28,7 +28,7 @@ Profile card component made with HTML and CSS.
 
 ### Screenshot
 
-![](./images/Screenshot.jpg)
+![](./images/screenshot.jpg)
 
 ### Links
 
