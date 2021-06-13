@@ -49,7 +49,9 @@ Started with mobile first design, set everything right and then moved to the des
 ### Continued development
 
 I could see the scrollbar in mobile version of the site, and I could not figure out why that was happening even when I set
-`css overflow: hidden`.
+```css 
+overflow: hidden
+```
 
 ## Author
 
